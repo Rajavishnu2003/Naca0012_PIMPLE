@@ -1,0 +1,10 @@
+# NACA 0012, Re = 1000, laminar 2D. Only values printed as numbers in the text or tables (none read off figures).
+# Kurtulus 2022: D. F. Kurtulus, J. Appl. Fluid Mech. 15(3) 723-735, doi:10.47176/jafm.15.03.33099, Table 1 (medium mesh, dt=0.005 s)
+# Mittal & Tezduyar 1994: as tabulated in Kurtulus 2022, Table 1
+# Kurtulus 2015: D. F. Kurtulus, Int. J. Micro Air Vehicles 7(3) 301-326, doi:10.1260/1756-8293.7.3.301, Sec. 3.1 text ("Cd at zero AoA about 0.12")
+# Di Ilio et al. 2018: Computers & Fluids (arXiv:2006.10487), Table 1 (HLBM; XFOIL gives the same 0.119)
+source,aoa_deg,cl,cd
+Kurtulus 2022,10,0.4180,0.1650
+Mittal & Tezduyar 1994,10,0.4192,0.1647
+Kurtulus 2015,0,0.0,0.12
+Di Ilio et al. 2018,0,0.0,0.119

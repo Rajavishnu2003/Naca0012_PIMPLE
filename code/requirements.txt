@@ -1,0 +1,4 @@
+# Post-processing (python3 -m pip install -r requirements.txt)
+numpy>=1.24
+matplotlib>=3.10   # 3.10+ for the 'berlin' colour map; older versions fall back to RdBu_r
+imageio-ffmpeg     # bundles ffmpeg for the MP4 videos (or install ffmpeg system-wide)

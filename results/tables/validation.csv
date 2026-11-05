@@ -1,0 +1,5 @@
+Quantity,Reference,Source,Present,Error %
+"Cd, AoA 0",0.119,Di Ilio et al. (2018) Tab. 1,0.1418464253117915,19.198676732597917
+"Cl, AoA 10",0.418,Kurtulus (2022) Tab. 1,0.2772599164237986,-33.6698764536367
+"Cd, AoA 10",0.165,Kurtulus (2022) Tab. 1,0.18913419247372396,14.626783317408453
+"max Cl/Cd (ref. at 11 deg, present at 12 deg)",2.55,Kurtulus (2015) Sec. 3.1,1.8386503835266246,-27.896063391112758
